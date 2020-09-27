@@ -61,5 +61,5 @@ public void ConfigureServices(IServiceCollection services)
 
 To learn more implement details, please check `Extensions/ServiceCollectionExtensions.cs` file.
 
-Finally, giving a ⭐️ Giving Star if it did some help for you.
+### Finally, giving a ⭐️ Giving Star if it did some help for you.
 
